@@ -19,6 +19,7 @@ The tool enables **SOC managers, CISOs, and researchers** to:
 
 ## 🚀 Quick Start
 
+
 ### Installation
 
 ```bash
@@ -391,30 +392,11 @@ mkdir -p outputs/plots outputs/cached_results outputs/tables
 
 ---
 
-## 🤝 Contributing
-
-This is a research prototype. For questions or collaboration:
-- **Pellegrino Casoria**: pellegrino.casoria@unina.it
-- **Andrea Araldo**: andrea.araldo@telecom-sudparis.eu
-
----
-
 ## 📄 License
 
 Proprietary - Research Use Only
 
 ---
-
-## 🎓 Citation
-
-```bibtex
-@article{casoria2026hype,
-  title={From Hype to ROI: An Economic Model for Evaluating LLM Adoption in Security Operations},
-  author={Casoria, Pellegrino and Araldo, Andrea},
-  journal={Conference Proceedings},
-  year={2026}
-}
-```
 
 ---
 
@@ -428,19 +410,3 @@ Proprietary - Research Use Only
 - [ ] Check `outputs/plots/` for generated plots
 - [ ] Review executive summary
 
-**Estimated time for first complete run: 30 minutes**
-
----
-
-## 🚀 What's Next?
-
-1. **Run baseline analysis** (Notebook 01)
-2. **Perform full Monte Carlo** (Notebook 02) with 10K iterations
-3. **Compare top models** (Notebook 03)
-4. **Export LaTeX tables** for paper
-5. **Generate executive summary** for stakeholders
-6. **Customize parameters** for your organization's specific context
-
----
-
-**Happy Simulating! 📊**
